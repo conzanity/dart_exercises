@@ -2,7 +2,7 @@ void main() {
   // Variables: one of each required type, with explicit types
   String studentName = 'Amiel Confiado';
   int quizzesTaken = 4;
-  double totalScore = 342.5;
+  double totalScore = 342.7;
   bool hasCompletedLab = true;
 
   // Arithmetic operators
