@@ -1,7 +1,7 @@
 # Dart Exercises – Week 7
 
 **Name:** Amiel Confiado
-**Section:** [YOUR SECTION]
+**Section:** 3.3BSIT
 **Course:** NTC_PC16 – Mobile Development w/ Lab
 **Activity:** Week 7 – Dart Fundamentals: Variables, Data Types, Operators & I/O
 
