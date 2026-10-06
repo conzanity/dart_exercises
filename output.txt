@@ -1,0 +1,6 @@
+Student: Amiel Confiado
+Average score: 85.625
+Pass: true
+Bonus stars: 3 (leftover points: 2)
+Qualifies for honors? true
+Quizzes taken after the new quiz: 5

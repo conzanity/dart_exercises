@@ -1,0 +1,7 @@
+name: dart_exercises
+description: Week 7 Dart exercises demonstrating variables, data types, operators, and console output.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
